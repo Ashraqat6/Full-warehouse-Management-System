@@ -1,0 +1,16 @@
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityProject.exe.config
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityProject.exe
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityProject.pdb
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityFramework.dll
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityFramework.xml
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.csproj.AssemblyReference.cache
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.csproj.SuggestedBindingRedirects.cache
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.Form1.resources
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.cache
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.csproj.CoreCompileInputs.cache
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.csproj.CopyComplete
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.exe
+D:\NUCLEAR\Courses\PD & BI\Entity\Project\EntityProject\obj\Debug\EntityProject.pdb
